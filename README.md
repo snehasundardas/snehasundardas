@@ -1,16 +1,24 @@
-## Hi there 👋
+# albatross
+# Hi there, I'm Sneha Sundar Das 👋
 
-<!--
-**snehasundardas/snehasundardas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate developer, problem-solver, and lifelong learner. Here's a quick glance at what I do:
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **SPRING MVC**
+- 👨‍💻 I specialize in **JAVA SE & J2EE**  
+- 🔥 I’m passionate about building **Web Projects**
+- 💬 Ask me about anything related to **Full Stack JAVA**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me:
+
+- Gmail : (snehadas784.ssd@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/sneha-sundar-das-844433215/)
+
+## 📄 Resume
+
+You can check out my resume by : https://github.com/snehasundardas/my_resume .
+
+ 
+
+---
+
+Let's collaborate, build cool stuff, and keep pushing the boundaries of tech! 🚀
