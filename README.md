@@ -1,8 +1,9 @@
-# albatross
+# albatross 😊
 # Hi there, I'm Sneha Sundar Das 👋
 
-Welcome to my GitHub! I'm a passionate developer, problem-solver, and lifelong learner. Here's a quick glance at what I do:
+Welcome to my GitHub! 🚀 I'm a passionate developer, problem-solver, and lifelong learner.🌟 Here's a quick glance at what I do:
 
+## About Me 💡:
 - 🌱 I’m currently learning **SPRING MVC**
 - 👨‍💻 I specialize in **JAVA SE & J2EE**  
 - 🔥 I’m passionate about building **Web Projects**
@@ -10,12 +11,12 @@ Welcome to my GitHub! I'm a passionate developer, problem-solver, and lifelong l
 
 ## 🔗 Connect with me:
 
-- Gmail : (snehadas784.ssd@gmail.com)
-- LinkedIn: (https://www.linkedin.com/in/sneha-sundar-das-844433215/)
+- 📧 Gmail : (snehadas784.ssd@gmail.com)
+- 🧑‍💻 LinkedIn: (https://www.linkedin.com/in/sneha-sundar-das-844433215/)
 
 ## 📄 Resume
 
-You can check out my resume by : https://github.com/snehasundardas/my_resume .
+- 📄 You can check out my resume by : https://github.com/snehasundardas/my_resume .
 
  
 
