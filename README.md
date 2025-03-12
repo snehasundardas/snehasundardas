@@ -4,7 +4,7 @@
 Welcome to my GitHub! 🚀 I'm a passionate developer, problem-solver, and lifelong learner.🌟 Here's a quick glance at what I do:
 
 ## About Me 💡:
-- 🌱 I’m currently learning **SPRING MVC**
+- 🌱 I’m currently learning **JAVA FRAMEWORKS**
 - 👨‍💻 I specialize in **JAVA SE & J2EE**  
 - 🔥 I’m passionate about building **Web Projects**
 - 💬 Ask me about anything related to **Full Stack JAVA**
