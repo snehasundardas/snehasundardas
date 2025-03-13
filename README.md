@@ -1,4 +1,4 @@
-# albatross 😊
+## albatross 😊
 # Hi there, I'm Sneha Sundar Das 👋
 
 Welcome to my GitHub! 🚀 I'm a passionate developer, problem-solver, and lifelong learner.🌟 Here's a quick glance at what I do:
